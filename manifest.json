@@ -1,0 +1,9 @@
+{
+  "name": "Edacademy",
+  "short_name": "Edac",
+  "theme_color": "#8f9df5",
+  "background_color": "#ffffff",
+  "display": "browser",
+  "scope": "/",
+  "start_url": "/"
+}
